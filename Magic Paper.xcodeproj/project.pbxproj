@@ -13,6 +13,7 @@
 		2272CD9725DE9FE500988967 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2272CD9525DE9FE500988967 /* Main.storyboard */; };
 		2272CD9925DE9FEB00988967 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2272CD9825DE9FEB00988967 /* Assets.xcassets */; };
 		2272CD9C25DE9FEB00988967 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2272CD9A25DE9FEB00988967 /* LaunchScreen.storyboard */; };
+		2272CDA525DEA01B00988967 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2272CDA425DEA01B00988967 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2272CD9825DE9FEB00988967 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2272CD9B25DE9FEB00988967 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2272CD9D25DE9FEB00988967 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2272CDA425DEA01B00988967 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		2272CD8E25DE9FE500988967 /* Magic Paper */ = {
 			isa = PBXGroup;
 			children = (
+				2272CDA425DEA01B00988967 /* harrypotter.mp4 */,
 				2272CD8F25DE9FE500988967 /* AppDelegate.swift */,
 				2272CD9125DE9FE500988967 /* art.scnassets */,
 				2272CD9325DE9FE500988967 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				2272CD9225DE9FE500988967 /* art.scnassets in Resources */,
 				2272CD9C25DE9FEB00988967 /* LaunchScreen.storyboard in Resources */,
+				2272CDA525DEA01B00988967 /* harrypotter.mp4 in Resources */,
 				2272CD9925DE9FEB00988967 /* Assets.xcassets in Resources */,
 				2272CD9725DE9FE500988967 /* Main.storyboard in Resources */,
 			);
